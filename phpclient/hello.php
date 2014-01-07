@@ -15,7 +15,7 @@
 // limitations under the License.
 
     $soap_params = array(
-      "soap_version" => SOAP_1_1,
+      "soap_version" => SOAP_1_2,
       "trace" => 1,
     );
 
