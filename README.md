@@ -33,6 +33,11 @@ This should show the wsdl from the webservice on the standard output.
 Put the example phpscript (phpclient/hello.php) somewhere on your Linux
 webserver, and it will work as long the tunnel is active.
 
+## SOAP 1.2
+
+The code in master uses SOAP 1.1. If you want to use SOAP 1.2, check out
+the soap\_1\_2 branch.
+
 ## License
 
 Copyright 2014 Chirojeugd-Vlaanderen vzw
