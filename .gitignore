@@ -19,3 +19,6 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+#Ignore vim files
+*~
+*.swp
